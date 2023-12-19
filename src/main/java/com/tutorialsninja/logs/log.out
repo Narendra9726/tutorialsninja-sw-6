@@ -1,0 +1,7 @@
+2023-12-19 21:12:818 INFO  LaptopsAndNotebooksPage :128 - HoverOnDesktop[[ChromeDriver: chrome on windows (7982576572c3491813ee128d0b824705)] -> link text: Laptops & Notebooks]
+2023-12-19 21:12:969 INFO  LaptopsAndNotebooksPage :134 - clickOnShowAllLaptopsAndNotebooks[[ChromeDriver: chrome on windows (7982576572c3491813ee128d0b824705)] -> link text: Show AllLaptops & Notebooks]
+2023-12-19 21:12:680 INFO  LaptopsAndNotebooksPage :134 - clickOnShowAllLaptopsAndNotebooksProxy element for: DefaultElementLocator 'By.linkText: Show AllLaptops & Notebooks'
+2023-12-19 21:12:527 INFO  MyAccountPage :102 - myAccount:[[ChromeDriver: chrome on windows (5bdf172d439c5d774cba57da2eb15bc4)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 21:12:692 INFO  MyAccountPage :107 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
+2023-12-19 21:12:589 INFO  MyAccountPage :102 - myAccount:[[ChromeDriver: chrome on windows (8341d225a8b8931821fdbe3b4a42bb66)] -> xpath: //span[contains(text(),'My Account')]]
+2023-12-19 21:12:751 INFO  MyAccountPage :107 - registerAccountProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Register Account')]'
